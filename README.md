@@ -28,7 +28,7 @@
 <br><br>
 
 - 🎓 I am a `Student` at [Hasanuddin University](https://www.unhas.ac.id/) majoring in [Information Systems](https://is.sci.unhas.ac.id/).  
-- 🤖 Still figuring out how to make machines smarter than me. `Machines`.  
+- 🤖 Still figuring out how to make `Machines` smarter than me. 
 - 📚 I’m currently learning `Data Science` and `Web Development`.  
 - 🧠 Always `learning new things`.  
 - 💼 I’m currently open for a new `job opportunity`, this is [MY PORTOFOLIO](http://dissent.netlify.app/).
