@@ -27,11 +27,12 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Hasanuddin University](https://www.unhas.ac.id/) majoring in [Information Systems](https://is.sci.unhas.ac.id/).
-- :AI: Still figuring out how to make machines smarter than me. `Machines`.
-- :student: I’m currently learning `Data Scince` and `Web Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://dissent.netlify.app/).
+- 🎓 I am a `Student` at [Hasanuddin University](https://www.unhas.ac.id/) majoring in [Information Systems](https://is.sci.unhas.ac.id/).  
+- 🤖 Still figuring out how to make machines smarter than me. `Machines`.  
+- 📚 I’m currently learning `Data Science` and `Web Development`.  
+- 🧠 Always `learning new things`.  
+- 💼 I’m currently open for a new `job opportunity`, this is [MY RESUME](http://dissent.netlify.app/).
+
 <br>
 
 
