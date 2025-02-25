@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,html,git,github,laravel" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,html,git,github,laravel,androidstudio" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github,colab,blender,aftereffects" />
+    <img src="https://skillicons.dev/icons?i=figma,vscode,github,colab,blender,ae,ps" />
   </a>
 </p>
 
