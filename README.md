@@ -82,37 +82,12 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nfahrisalim&theme=tokyonight_duo" alt="nfahrisalim" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="aldiramdhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=al&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiramdhan&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
 
-<details><summary> <h3> :trophy: Git profile Achievement </h3></summary>
 
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nfahrisalim&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="nfahrisalim" /></a> </p>
-
-	
-</details>
 	
