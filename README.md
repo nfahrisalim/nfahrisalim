@@ -31,7 +31,7 @@
 - 🤖 Still figuring out how to make machines smarter than me. `Machines`.  
 - 📚 I’m currently learning `Data Science` and `Web Development`.  
 - 🧠 Always `learning new things`.  
-- 💼 I’m currently open for a new `job opportunity`, this is [MY RESUME](http://dissent.netlify.app/).
+- 💼 I’m currently open for a new `job opportunity`, this is [MY PORTOFOLIO](http://dissent.netlify.app/).
 
 <br>
 
